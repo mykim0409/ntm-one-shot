@@ -10,4 +10,4 @@ Theano==0.9.0
 Pillow
 matplotlib
 
-git+ssh://git@github.com/Lasagne/Lasagne.git
+git+https://github.com/Lasagne/Lasagne.git
